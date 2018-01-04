@@ -1,0 +1,12 @@
+[MASTER]
+
+extension-pkg-whitelist=dash_core_components,dash_html_components,numpy,matplotlib,matplotlib.cm,toy_component
+
+[TYPECHECK]
+
+ignored-modules=dash_core_components,dash_html_components,numpy,matplotlib,matplotlib.cm,toy_component
+ignored-classes=dash_core_components,dash_html_components,numpy,matplotlib,matplotlib.cm,toy_component
+
+[BASIC]
+
+disable=I0011,C0103,W0122

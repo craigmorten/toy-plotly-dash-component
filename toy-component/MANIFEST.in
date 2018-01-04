@@ -1,0 +1,5 @@
+include toy_component/bundle.js
+include toy_component/bundle.js.map
+include toy_component/metadata.json
+include README.md
+include LICENSE.md
